@@ -1,0 +1,25 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Stuffed Peppers",      
+      "type": "Main Course",
+      "recipe": ["Preheat oven to 400° F and line a baking tray with parchment paper.","carefully slice the capsicum and discard the ribs and seeds, and place them on the prepared baking tray. Spray with a bit of cooking oil spray and sprinkle with salt and pepper. Bake for 8-10 minutes","Stir fry some onions, tomato, garlic, beans and corn with red pepper flakes, ground cumin, smoked paprika, salt, and pepper","Carefully spoon the mixture into the roasted peppers","Then place back into the oven and cook for 6-8 minutes with some cheese on top","once done,take it out and server hot"],
+      "img": "https://healthyfitnessmeals.com/wp-content/uploads/2020/03/Vegetarian-stuffed-peppers-3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Carrot Lemon Rice",      
+      "type": "Main Course",
+      "recipe": ["Shred Carrots into fine pieces","Saute some mustard, urad dhal, red chillies, onion and peanuts(optional)in hot oil","Add some salt and in 2 mins, add in the shredded carrots and saute again for 5 mins","Once cooked, add left over rice from previous day and mix well","New cooked rice can be used as well", "Garnish with coriander and a sqeeze of lemon"],
+      "img": "http://cooksjoy.com/blog/wp-content/uploads/2013/02/Carrot-Lemon-Rice-3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nannari drink",     
+      "type": "Dessert",
+      "recipe":["Soak some tukmaria seeds in cold water for about 30 minutes","In a glass add 250 ml of water and 2 tbsps of nannari syrup","Mix well and add sugar if needed","Add the soaked tukmaria seeds","Squeeze in half a lime and mix well","Add ice if preferred"], 
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrihwSfIFjBWkEFKj8T4rNcgQk3l1hp9XFWA&usqp=CAU"
+    }    
+  ] 
+}
